@@ -9,7 +9,7 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-weight: 500;
+  font-weight: 50;
   font-size: 36px;
   line-height: 54px;
   color: #363f5f;
